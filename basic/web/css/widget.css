@@ -1,0 +1,64 @@
+
+.speaker-widget{
+    margin-bottom: 20px;
+    border: 5px solid #7E7E7E;
+    //background: #DAE3FF;
+    width: 530px;
+    box-shadow: 0 0 11px 0px #979797;
+    //text-align: center;
+}
+.speaker-icon{
+    padding: 10px;
+}
+.speaker-icon img{
+
+}
+.speaker-bullhorn{
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;
+    font-size: 250%;
+    color: #C7C7C7;
+    border-right: 1px solid black;
+}
+
+.speaker-join{
+    font-size: 90%;
+    color: #C7C7C7;
+}
+
+.speaker-wrapper{
+    display: inline-flex;
+}
+.speaker-content{
+    margin-left: 10px;
+}
+.speaker-content div{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.speaker-header{
+    font-size: 200%;
+    width: 240px;
+}
+.speaker-rating{
+    padding: 10px;
+    font-size: 399%;
+    //background: #bbfff3;
+    margin-left: 10px;
+    float: right;
+}
+.speaker-statistic{
+    height: 40px;
+    border-top: 1px solid;
+}
+
+.sp_subscribers,
+.sp_notes,
+.sp_btn{
+    font-size: 120%;
+    color: #7E7E7E;
+    padding: 10px;
+    float: left;
+
+}

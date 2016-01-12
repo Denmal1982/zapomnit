@@ -1,0 +1,9 @@
+table.calendar{
+    border-collapse: separate; /* Способ отображения границы */
+    width: 720px; /* Ширина таблицы */
+    border-spacing: 2px; /* Расстояние между ячейками */
+    font-size: 14px!important;
+}
+
+
+

@@ -1,0 +1,55 @@
+
+
+body{
+    background-image: url("../images/bg.png");
+    //background-color: #c1d0ff;
+    font-family: "Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-size: 16px;
+
+}
+
+
+.nav>li>a{
+    line-height: 30px;
+}
+
+.dropdown-menu{
+    border-radius: 0;
+    border: 5px solid #E7E7E7;
+    width: 30px !important;
+}
+.content-inner{
+    padding: 30px;
+    border: 2px solid #ebebeb;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+.container{
+    width: 940px;
+}
+.navbar{
+    border-radius: 0;
+    border-width: 5px;
+    color: #ffffff;
+}
+
+.site-login{
+    box-shadow: 0 0 16px 1px rgba(169, 168, 168, 0.99);
+    border: 5px solid #A9A8A8;
+    border-radius: 2px;
+    background: white;
+    width: 250px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.form-reg{
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 0 16px 1px rgba(169, 168, 168, 0.99);
+    width: 250px;
+    padding: 10px;
+    margin: 0 auto;
+}
